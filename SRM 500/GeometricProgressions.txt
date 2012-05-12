@@ -1,7 +1,7 @@
 PROBLEM STATEMENT
 NOTE: This problem statement contains superscripts that may not display properly if viewed outside of the applet.
 
-You are given two geometric progressions S1 = (b1*q1i, 0 <= i <= n1-1) and S2 = (b2*q2i, 0 <= i <= n2-1). Return the number of distinct integers that belong to at least one of these progressions.
+You are given two geometric progressions S1 = (b1*q1^i, 0 <= i <= n1-1) and S2 = (b2*q2^i, 0 <= i <= n2-1). Return the number of distinct integers that belong to at least one of these progressions.
 
 DEFINITION
 Class:GeometricProgressions
